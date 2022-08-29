@@ -1,6 +1,7 @@
 ### Hi there I am Albert 👋
 
-#### I'm a full-stack developer and software engineer currently living in Charlotte, North Carolina
+#### I'm a full-stack developer and software engineer 
+- 📍 Based in Charlotte, NC
 - 🏫 I recently graduated Hack Reactor, a 1000+ hour bootcamp that is highly intensive and requires efficient and quick learning
 - 📫 How to reach me: Albertthuynh94@gmail.com, [LinkedIn](https://www.linkedin.com/in/albertthuynh)
 - 😄 Pronouns: he/him/his
@@ -8,7 +9,7 @@
 
 ---
 
-## Technologies I've worked with: 
+## Languages & Tools: 
 
 ### Front End:
 
